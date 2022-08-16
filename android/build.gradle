@@ -32,5 +32,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+    implementation 'org.apache.directory.studio:org.apache.commons.io:2.4'
 }
   
